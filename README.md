@@ -34,4 +34,4 @@ This Privacy Policy may be updated from time to time. Any changes will be reflec
 
 If you have any questions about this Privacy Policy, you may contact the developer at:
 
-Email: your-email@example.com
+Email: yussuufbayramov09@gmail.com
