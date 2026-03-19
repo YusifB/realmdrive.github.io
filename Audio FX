@@ -1,0 +1,38 @@
+Privacy Policy
+Last Updated: [Date]
+
+This Privacy Policy explains how [Developer/Company Name] ("we," "us," or "our") handles your information when you use our paid media player and equalizer application (the "App"). We are committed to protecting your privacy and managing your data transparently.
+
+1. Required Permissions and Data Collection
+To provide you with core functionalities such as media playback, audio processing, and recording, the App requires the following permissions on your device:
+
+Microphone Permission (Record Audio): The App requests microphone access to analyze audio, apply real-time equalizer effects, provide audio visualizations, and enable the in-app audio recording feature.
+
+Storage / Media Permission: The App requires access to your device's storage to read and play your existing audio files, and to save any new audio recordings directly to your device.
+
+2. How We Use Your Data
+The microphone and media access granted to the App are used strictly to provide its core features.
+
+Local Processing: All audio data captured via the microphone and all audio recordings are processed and stored entirely locally on your device.
+
+No Third-Party Sharing: Because our App is a paid service, we do not monetize your data. Your audio recordings, personal data, and listening habits are never uploaded to remote servers, copied, sold, or shared with third parties or advertising networks.
+
+3. Data Security
+We take the privacy of your audio data seriously. Since your data is hosted exclusively on your device, the security of these recordings relies directly on your device's general security measures (such as screen locks, biometrics, and device encryption).
+
+4. Managing Permissions
+You have full control over the permissions you grant to our App. You can revoke the microphone and storage permissions at any time through your device settings: Settings > Apps > [App Name] > Permissions.
+
+Note: If you revoke the microphone permission, core features such as the equalizer and audio recording will no longer function.
+
+5. Children's Privacy
+This App is intended for a general audience and does not knowingly collect personal data from children. Because all data is processed and stored locally on the device, no data is transmitted externally.
+
+6. Contact Us
+If you have any questions or concerns about this Privacy Policy, our permission requests, or how the App handles data, please feel free to contact us:
+
+Developer / Company Name: [Your Name / Company Name]
+
+Contact Email: [Your Email Address]
+
+GitHub Repository: [Link to your GitHub Repo / Issues page]
